@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+    #the
+    {
+        background-color: grey;
+        font-size:35px
+    }
+    .is 
+    {
+        background-color: lightpink;
+        font-size:35px;
+    }
+</style>
+</head>
+<body> 
+    <p id="the">hello World</p>
+    <pre class="is"> what is your name ?</pre>
+    <pre id="the"> How are    you  ???</pre>
+    <p class="is"> Good Job</p><br>
+</body>
+</html>
